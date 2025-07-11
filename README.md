@@ -269,6 +269,16 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+### Bioinformatics
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [Ensembl REST API](https://rest.ensembl.org/) | Offers genomic data including genes, variants, and comparative genomics across multiple species from the European Bioinformatics Institute | No Auth |Yes | Yes | 
+| [PATRIC API](https://www.bv-brc.org/api/)  | Provides access to bacterial genomes, AMR data, and metabolic reconstructions via the BV-BRC platform for infectious disease research | No | Yes | No| Yes |
+| [UniProt API](https://www.uniprot.org/help/api_queries) | Provides access to protein sequence and functional information for over 200 million proteins from the UniProt Knowledgebase | No | Yes | Yes |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
 ### Business
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
