@@ -269,6 +269,14 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+### Bioinformatics
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [PATRIC API](https://www.bv-brc.org/api/) | Provides programmatic access to bacterial genomes, metabolic reconstructions, and antimicrobial resistance (AMR) data via the Bacterial and Viral Bioinformatics Resource Center (BV-BRC). Useful for infectious disease research and comparative genomics. |`No Auth`| Yes| No |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
 ### Business
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
