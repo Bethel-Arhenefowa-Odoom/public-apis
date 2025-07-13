@@ -269,13 +269,23 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+### Bioinformatics
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [Ensembl REST API](https://rest.ensembl.org/) | Offers genomic data including genes, variants, and comparative genomics across multiple species from the European Bioinformatics Institute | `No Auth`| Yes| Yes | 
+| [PATRIC API](https://www.bv-brc.org/api/) | Provides access to bacterial genomes, AMR data, and metabolic reconstructions via the BV-BRC platform for infectious disease research |`No Auth`| Yes | No | 
+| [UniProt API](https://www.uniprot.org/help/api_queries) | Provides access to protein sequence and functional information for over 200 million proteins from the UniProt Knowledgebase | `No Auth` | Yes | Yes
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
 ### Business
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes | Yes |
 | [Charity Search](http://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | No | Unknown 
 | [Clearbit Logo](https://clearbit.com/docs#logo-api) | Search for company logos and embed them in your projects | `apiKey` | Yes | Unknown |
-| [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
+ | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Yes | Unknown |
